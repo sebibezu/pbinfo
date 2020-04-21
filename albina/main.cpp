@@ -3,9 +3,8 @@ using namespace std;
 
 int main()
 {
-    long long n;
+    long long  n;
     cin >> n;
-    cout << 1 + 3*n*(n - 1);
-
+    cout << 1+3*n*(n-1)
     return 0;
 }
